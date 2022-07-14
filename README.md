@@ -12,14 +12,12 @@ Plataform: Unity
 * Touch to expand the information of each art exhibition.
 * Wrist menu to move between scenes, get help information and invoke the pencil object to interact with writable objects.
 * Canvas to describe each work Object.
+* Tejo simulator.
 
-<h3 align="Left">
-  <img src="images/wristmenu.png" width="300">
+<h3 align="center">
+  <img src="images/imagen2.png" width="300">
 </h3>
 
-<h3 align="right">
-  <img src="images/sala2.png" width="300">
-</h3>
 
 # Links:
 
