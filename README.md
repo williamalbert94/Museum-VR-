@@ -6,7 +6,7 @@ Compatible devices: oculus quest 1 and 2
 
 Plataform: Unity
 
-# Implemented mechanics:
+# Mechanics:
 
 * Writable scenes to leave your message.
 * Touch to expand the information of each art exhibition.
