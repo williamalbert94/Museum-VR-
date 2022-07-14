@@ -15,7 +15,7 @@ Plataform: Unity
 * Tejo simulator.
 
 <h3 align="center">
-  <img src="images/imagen2.png" width="300">
+  <img src="images/imagen2.png" width="900">
 </h3>
 
 
